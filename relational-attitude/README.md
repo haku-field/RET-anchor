@@ -134,3 +134,5 @@ If it feels *wrong not to apply*,
 it has already become obligation.
 
 This directory exists to prevent that transition.
+
+See Appendix: Response Ethics
