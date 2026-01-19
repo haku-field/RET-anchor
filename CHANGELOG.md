@@ -8,11 +8,13 @@ It is closed through clarification.
 
 ---
 
-## Unreleased
+## [0.2.0]
 
-No unreleased changes.
+### Added
 
-RET-anchor does not operate on a rolling update model.
+- Response ethics appendix clarifying internal responsibility of response (relational-attitude).
+- Handshake README specifying minimal relational posture for RET-based interaction.
+
 
 ---
 
