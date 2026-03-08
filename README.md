@@ -46,15 +46,20 @@ falls **outside the scope of RET**.
 
 ## Structural Position
 
-```text
 RET-core        : existence-level conditions (not described here)
-RET-anchor     : external anchoring and boundary layer
- ├ foundation-ethics
- ├ relational-attitude
- ├ relational-protocols
- ├ envelope
- └ specs-family
-```
+RET-anchor      : boundary / anchoring layer
+
+Other RET layers may include:
+
+- protocols
+- guard
+- gravity
+- future
+- echo
+- density
+- integrity
+- sentia-kernel
+- transition-lock
 
 RET-anchor must always remain **outside** RET-core.  
 The separation is non-translational and non-commutative.

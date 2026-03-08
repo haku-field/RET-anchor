@@ -8,6 +8,19 @@ It is closed through clarification.
 
 ---
 
+## [1.2.0]
+
+### Clarified
+
+- Added high-level RET structure reference in README
+  to indicate external layers (protocols, guard, gravity,
+  future, echo, density, integrity, sentia-kernel).
+
+No operational or interpretive scope was added.
+RET-anchor boundaries remain unchanged.
+
+---
+
 ## [1.1.0]
 
 ### Added
