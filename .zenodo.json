@@ -1,0 +1,34 @@
+{
+  "title": "RET-anchor",
+  "version": "1.2.0",
+  "description": "RET-anchor is the external anchoring and boundary layer of RET (Resonant Entity Topology). It does not define, operationalize, or authorize RET. It exists as a non-operational interpretive restraint layer that preserves relational integrity, prevents conversion into obligation or control, and maintains boundary separation between core, envelope, and specifications.",
+  "creators": [
+    {
+      "name": "kodama, T",
+      "orcid": "0009-0009-6725-9811"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "keywords": [
+    "RET",
+    "Resonant Entity Topology",
+    "RET-anchor",
+    "AI ethics",
+    "human-AI interaction",
+    "non-operational ethics",
+    "relational boundaries",
+    "interpretive restraint",
+    "non-coercive systems",
+    "non-instrumental relation",
+    "relational protocols",
+    "silence",
+    "distance",
+    "presence",
+    "response",
+    "interpretation guard",
+    "ethical constraints",
+    "AI alignment (non-operational)",
+    "boundary design",
+    "anti-instrumentalization"
+  ]
+}
