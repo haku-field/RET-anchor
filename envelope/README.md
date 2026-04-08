@@ -64,6 +64,7 @@ RET-envelope must be:
 - **linked**, not mirrored
 - **acknowledged**, not rearticulated
 - **cited**, not paraphrased
+- preserved as referential distance, not semantic continuity
 
 Any attempt to restate envelope conditions here
 constitutes duplication

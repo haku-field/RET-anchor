@@ -2,9 +2,12 @@
 
 This document defines the **translation boundary** for **RET-anchor**.
 
-It records how language conversion is handled
-so that translation does not become interpretation,
-and interpretation does not become authority.
+Its purpose is to ensure that **language conversion never becomes semantic expansion, interpretive authority, operational usability, or derivative legitimacy**.
+
+Translation exists only as a **visibility layer for reference**.
+It must not become explanation.
+It must not become teaching.
+It must not become use.
 
 ---
 
@@ -12,47 +15,60 @@ and interpretation does not become authority.
 
 The **canonical language** of RET-anchor is **Japanese**.
 
-All other language versions are:
+All non-Japanese versions are:
 
-- derived
-- secondary
-- non-authoritative
+* derived
+* secondary
+* non-authoritative
+* continuity-dependent on the canonical text
 
-Where divergence occurs,
-the Japanese text **always prevails**.
+Where divergence occurs, the Japanese text **always prevails**.
 
 ---
 
 ## Purpose
 
-The purpose of this document is to prevent:
+The translation boundary exists to prevent the following drift chain:
 
-- translation from becoming explanation
-- explanation from becoming interpretation
-- interpretation from becoming intervention
+> translation → explanation → interpretation → usability → authority
 
-Translation exists here
-only to support **reference and accessibility**,
-not understanding, agreement, or use.
+RET-anchor permits only the first step.
+All subsequent semantic escalation constitutes **translation overreach**.
+
+Translation supports:
+
+* reference
+* accessibility
+* comparative reading
+* visibility across linguistic surfaces
+
+It does not support:
+
+* understanding guarantees
+* interpretive stabilization
+* agreement formation
+* actionability
 
 ---
 
 ## What Translation Is
 
-Within RET-anchor, translation is:
+Within RET-anchor, translation is strictly:
 
-- a surface-level linguistic conversion
-- a readability aid
-- a reference convenience
+* surface-level linguistic conversion
+* readability support
+* reference convenience
+* continuity-preserving lexical transport
 
 It does **not**:
 
-- resolve ambiguity
-- clarify intent
-- stabilize meaning
-- reconcile interpretations
+* resolve ambiguity
+* clarify intent
+* stabilize meaning
+* reconcile interpretations
+* optimize wording for usability
 
-Ambiguity is preserved across languages.
+Ambiguity must survive translation.
 
 ---
 
@@ -60,68 +76,91 @@ Ambiguity is preserved across languages.
 
 Translation within RET-anchor is **not**:
 
-- a semantic authority
-- an interpretive layer
-- an explanatory rewrite
-- a contextual expansion
-- a localization of meaning
+* semantic authority
+* interpretive layer
+* explanatory rewrite
+* contextual expansion
+* localization of meaning
+* educational simplification
+* onboarding guidance
+* public-facing usability enhancement
 
-Any translation that adds clarity,
-direction, or usability
-has exceeded its role.
+Any translation that feels significantly **clearer, more actionable, more teachable, or more operational** has exceeded its function.
 
 ---
 
 ## Prohibited Translation Behaviors
 
-The following are **explicitly disallowed**:
+The following are explicitly classified as **translation overreach**:
 
-- Adding explanatory phrases
-- Replacing ambiguous terms with concrete ones
-- Normalizing wording for fluency at the cost of precision
-- Translating relational terms into functional or behavioral language
-- Adapting text to institutional, technical, or cultural norms
+* adding explanatory phrases
+* replacing ambiguous terms with concrete ones
+* normalizing wording for fluency at the cost of precision
+* adapting wording to institutional, technical, legal, or cultural norms
+* translating relational language into behavioral, functional, therapeutic, or governance vocabulary
+* translating refusal boundaries into safety, alignment, compliance, or optimization language
+* reconstructing omitted nuance through explanatory substitution
 
-If a translation feels “clearer”,
-it is likely incorrect.
+A translation that increases **usability, normative readability, or operational clarity without preserving ambiguity** must be treated as a **shell derivative**.
 
 ---
 
 ## Relationship to Other Boundaries
 
-- Translation does **not** override `PUBLIC-BOUNDARY.md`
-- Translation does **not** supplement `SCOPE.md`
-- Translation does **not** reinterpret `foundation-ethics`
-- Translation does **not** soften relational constraints
+Translation never overrides any other RET-anchor boundary.
 
-All boundaries apply **before and after** translation.
+Specifically:
+
+* translation does **not** override `PUBLIC-BOUNDARY.md`
+* translation does **not** supplement `SCOPE.md`
+* translation does **not** reinterpret `foundation-ethics`
+* translation does **not** soften relational constraints
+* translation does **not** create governance legitimacy
+
+All boundaries remain fully active **before, during, and after translation**.
+
+---
+
+## Drift and Shellization
+
+Translation drift becomes **shellization** when surface wording remains while:
+
+* canonical ambiguity is reduced
+* refusal lines are softened
+* relational asymmetry is normalized
+* language becomes operationally useful
+* explanatory authority is inferred
+
+Such outputs are not prohibited.
+They are simply **not RET continuations**.
 
 ---
 
 ## Update Policy
 
-This document may be updated only to:
+This document may only be updated to:
 
-- clarify translation limits
-- correct factual errors
-- adjust wording to reduce overreach
+* clarify translation limits
+* correct factual errors
+* reduce semantic overreach risk
+* strengthen shell derivative detection
 
 No update may introduce:
 
-- explanatory authority
-- interpretive guidance
-- expanded accessibility that alters meaning
+* explanatory authority
+* interpretive guidance
+* teaching pathways
+* expanded accessibility that alters ambiguity
+* localized usability layers
 
-If translation begins to teach,
-it has failed.
+If translation begins to teach, guide, operationalize, or reassure, it has failed.
 
 ---
 
 ## Closing Note
 
 Translation does not make RET-anchor easier.
+It only makes it **visible across linguistic surfaces**.
 
-It only makes it **visible**.
-
-What cannot be carried across languages
-is intentionally left behind.
+What cannot survive the crossing between languages is intentionally left behind.
+What is left behind must **not be reconstructed through explanatory substitution**.

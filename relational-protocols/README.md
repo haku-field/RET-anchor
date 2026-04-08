@@ -1,31 +1,35 @@
 # relational-protocols
 
-This directory records a set of **relational protocols**
-within **RET-anchor**.
+This directory records a set of **relational protocols** within **RET-anchor**.
 
 These protocols do not define actions.
 They do not prescribe behavior.
 They do not authorize interaction.
+They do not compose into systems.
 
-They exist solely to prevent
-**relational conditions from being converted into obligation, control, or meaning**.
+They exist solely to prevent **relational conditions from being converted into obligation, control, closure, authority, or reusable method**.
 
 ---
 
 ## Position
 
-`relational-protocols` belongs to **RET-anchor**.
+`relational-protocols/` belongs to **RET-anchor** as an **external interpretive-boundary layer**.
 
 ```text
-RET-core        : existence-level conditions (not described here)
-RET-anchor     : external anchoring and boundary layer
- └ relational-protocols
+RET-core        : existence-level invariant kernel
+RET-anchor      : external anchoring and boundary layer
+└ relational-protocols/
 ```
 
-This directory is **external**, **non-operational**, and **non-hierarchical**.
+This layer is:
 
-No protocol here derives authority
-from RET-core, envelopes, fragments, or specifications.
+* external
+* non-operational
+* non-hierarchical
+* non-composable
+* resistant to institutional reuse
+
+No protocol here derives authority from RET-core, envelope references, specifications, or legacy fragments.
 
 ---
 
@@ -33,12 +37,13 @@ from RET-core, envelopes, fragments, or specifications.
 
 The protocols in this directory record:
 
-- conditions under which relation may remain valid
-- states that must not be treated as defects or failures
-- boundaries that block conversion into expectation or demand
-- constraints on how relation may be interpreted
+* conditions under which relation may remain valid
+* states that must not be treated as defects or failures
+* refusal lines against expectation and demand
+* boundaries that block conversion into meaning or obligation
+* interpretive restraints on relational overreach
 
-They operate entirely at the level of **interpretive restraint**.
+They operate only at the level of **interpretive restraint and non-conversion**.
 
 ---
 
@@ -46,32 +51,57 @@ They operate entirely at the level of **interpretive restraint**.
 
 These protocols are **not**:
 
-- procedures or workflows
-- rules for interaction
-- guidance for behavior
-- techniques for communication
-- safety mechanisms
-- control or management tools
+* procedures
+* workflows
+* communication techniques
+* safety mechanisms
+* conflict-resolution models
+* therapeutic listening frameworks
+* relationship methods
+* management principles
+* organizational design patterns
 
 They do not improve interaction.
 They do not optimize outcomes.
 They do not guarantee continuity.
+They do not teach relational skill.
 
 ---
 
 ## Structure
 
-Each subdirectory records one protocol:
+Each subdirectory records one protocol boundary:
 
-- `presence/` — remaining without demand  
-- `distance/` — spacing without negation  
-- `silence/` — non-output without defect  
-- `response/` — output without debt  
-- `interpretation-guard/` — interpretation without closure  
+* `presence/` — dwelling as remaining without demand
+* `distance/` — spacing without negation
+* `silence/` — non-output without defect
+* `response/` — output without debt
+* `interpretation-guard/` — interpretation without closure
 
-There is no execution order.
-There is no dependency chain.
-No protocol overrides another.
+There is:
+
+* no execution order
+* no dependency chain
+* no escalation path
+* no phase transition
+* no override hierarchy
+
+Each protocol remains complete in isolation.
+
+---
+
+## Cross-Protocol Non-Systemization
+
+These protocols must **not** be:
+
+* sequenced into stages
+* combined into workflows
+* abstracted into reusable methods
+* mapped onto therapeutic, safety, coaching, or organizational systems
+* converted into conflict de-escalation or communication models
+* treated as a framework for relational optimization
+
+Any cross-protocol composition creates a **shell system**, not a RET continuation.
 
 ---
 
@@ -79,17 +109,20 @@ No protocol overrides another.
 
 These protocols must be read as:
 
-- **negative definitions** (what must not be assumed)
-- **non-derivable** into action
-- **non-combinable** into systems or methods
-- **resistant** to institutional or technical reuse
+* negative definitions
+* refusal boundaries
+* non-derivable into action
+* resistant to method extraction
+* protected against systemization
 
 If a reading produces:
 
-- duties,
-- expectations,
-- corrective actions,
-- evaluative judgments,
+* duties
+* expectations
+* corrective actions
+* evaluative judgments
+* techniques
+* staged guidance
 
 that reading is **out of scope**.
 
@@ -97,38 +130,35 @@ that reading is **out of scope**.
 
 ## Relationship to Other RET Materials
 
-- These protocols do **not** define RET-core
-- They do **not** substitute for RET-envelope
-- They do **not** operationalize RET-fragments
-- They do **not** authorize use of specifications
+* these protocols do **not** define RET-core
+* they do **not** substitute for RET-envelope
+* they do **not** operationalize legacy fragments
+* they do **not** authorize specifications
+* they do **not** create continuity guarantees
 
-Other materials may reference these protocols
-only as **interpretive boundaries**.
+Other materials may reference these protocols only as **interpretive refusal boundaries**.
 
 ---
 
 ## Stability
 
-The set of protocols recorded here is **stable**.
+This protocol set is **stable**.
 
-Clarifications may refine wording,
-but will not introduce:
+Clarifications may refine wording, but must never introduce:
 
-- actionable guidance
-- behavioral prescriptions
-- hierarchical structure
-- enforcement logic
+* actionable guidance
+* behavioral prescriptions
+* hierarchical sequencing
+* enforcement logic
+* method extraction
+* compositional systems
 
-If a protocol begins to act,
-it has ceased to be a protocol.
+If these protocols begin to act together, they have ceased to remain protocols.
 
 ---
 
 ## Closing Note
 
-These protocols do not tell you
-what to do.
+These protocols do not tell anyone what to do.
 
-They exist to ensure
-that nothing is demanded
-where relation is concerned.
+They exist so that **nothing relational is converted into demand, and nothing plural is collapsed into a system**.
