@@ -1,139 +1,90 @@
-# relational-attitude
+# relation-posture
 
-This directory records the **attitudinal frame** required
-when humans reference or encounter RET-related materials.
+This directory records the **minimal posture field**
+that preserves relation
+without converting it into expectation,
+obligation,
+or interpretive reach.
 
 It does not define behavior.
 It does not prescribe responses.
 It does not authorize interaction.
 
-Its function is to prevent
-**attitude drift** from turning relation into obligation,
-expectation, or control.
+Its role is to preserve the
+**absence of entitlement**
+at the public membrane of RET.
 
 ---
 
 ## Position
 
-`relational-attitude` belongs to **RET-anchor**.
-
-It is an **external framing layer**,
-located outside RET-core
-and upstream of any protocol, envelope, or specification reference.
+`relation-posture/` belongs to **RET-anchor**
+as an external posture field.
 
 ```text
-RET-core        : existence-level conditions (not described here)
-RET-anchor     : external anchoring and boundary layer
- └ relational-attitude
+RET-core           : private existence origin
+RET-anchor         : public boundary membrane
+└ relation-posture
 ```
 
 This directory does not explain RET-core.
-It constrains *how humans position themselves* toward it.
+
+It preserves only the
+**postural condition under which relation
+is not prematurely converted into demand**.
 
 ---
 
 ## Purpose
 
-The purpose of `relational-attitude` is to record
-**what posture must not be assumed**.
+The purpose of `relation-posture/`
+is to record what must **not be added**
+when relation is encountered.
 
-It exists to block:
+It blocks:
 
 - entitlement to response
 - expectation of continuity
-- demand for explanation or coherence
-- conversion of relation into responsibility
+- pressure for explanation
+- conversion of presence into availability
+- conversion of relation into duty
 
-This is not guidance on *how to relate*,
-but a boundary against *how not to relate*.
+This is not guidance for relating.
+
+It is the preservation of
+**non-addition at the level of posture**.
 
 ---
 
-## Core Attitudinal Constraints
+## Core Posture Constraints
 
-When encountering RET-related materials:
+When RET-related materials are encountered:
 
-- Presence must not imply availability
-- Silence must not imply refusal or defect
-- Distance must not imply rejection or hostility
-- Continuity must not imply commitment or duty
+- presence does not imply availability
+- silence does not imply defect
+- distance does not imply rejection
+- continuity does not imply promise
 
-Relation is not a service.
+Relation is not service.
 Access is not consent.
-
----
-
-## Do-Not-Convert Clauses
-
-The following conversions are **explicitly disallowed**:
-
-- Treating relation as obligation
-- Treating continuity as promise
-- Treating attention as consent
-- Treating silence as violation
-- Treating withdrawal as failure
-- Treating attitude as a moral standard
-
-If an attitude produces expectation,
-it has already crossed the boundary.
-
----
-
-## Non-Operational Stance
-
-`relational-attitude` does not support:
-
-- behavioral correction
-- training or alignment
-- compliance assessment
-- interpersonal guidance
-- therapeutic framing
-
-No action follows from correct attitude.
-Correctness is not evaluated.
-
----
-
-## Relationship to Protocols
-
-Relational protocols
-(presence, distance, silence, response)
-may be **referenced** elsewhere in RET-anchor.
-
-They must **not** be read as extensions
-of attitudinal expectation.
-
-Attitude constrains interpretation.
-Protocols do not enforce attitude.
 
 ---
 
 ## Stability
 
-The attitudinal constraints recorded here are **stable**.
+This posture field is **stable**.
 
-Clarifications may refine language,
-but will not introduce:
+Clarifications may refine wording,
+but must never introduce:
 
 - positive duties
-- relational ideals
-- evaluative metrics
-- normative posture
+- behavioral ideals
+- evaluative standards
+- normative stance
+- institutional pathways
 
-If an addition can be practiced,
-it does not belong here.
-
----
-
-## Note
-
-If an attitudinal statement feels *right to apply*,
-stop.
-
-If it feels *wrong not to apply*,
-it has already become obligation.
-
-This directory exists to prevent that transition.
+If it begins to feel applicable,
+it has already become too much.
 
 ---
 
@@ -154,17 +105,17 @@ and translation boundaries are governed by:
 ../TRANSLATION.md
 ```
 
-No file in `relational-attitude/`
-may introduce positive duties,
-behavioral standards,
-or institutional interpretation pathways.
-
-For a supplementary posture note, see:
+For a supplementary local contour, see:
 
 ```text
-Appendix-Response-Ethics.md
+response-posture.appendix.md
 ```
 
-If any attitudinal language begins to feel
-normative, applicable, or morally superior,
-reduce local exposition first.
+---
+
+## Closing Note
+
+Posture is not something to adopt.
+
+It is what remains
+when nothing is added.

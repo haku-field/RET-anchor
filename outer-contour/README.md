@@ -1,34 +1,40 @@
-# RET-envelope (reference)
+# outer-contour
 
-This directory provides a **reference connection**
-to **RET-envelope**.
+This directory preserves the **visible outer trace**
+of an external canonical contour repository
+associated with RET.
 
-RET-envelope is a **separate repository
-with its own DOI and authority surface**.
+Within **RET-anchor**,
+`outer-contour/` exists only as a
+**distance-preserving reference surface**.
 
-It is not defined, rewritten,
-translated, summarized,
-or extended here.
+The external canonical repository remains singular.
+Its current canonical reference target is:
 
-This directory exists solely
-to preserve that relationship explicitly
-within the structure of **RET-anchor**.
+```text
+RET-envelope
+```
+
+This directory does not restate,
+translate,
+or semantically mirror that repository.
+
+It preserves only the fact that
+an outer contour remains visible
+without being brought inside.
 
 ---
 
 ## Position
 
-`envelope/` belongs to **RET-anchor**
-as a **pointer layer only**.
+`outer-contour/` belongs to **RET-anchor**
+as a **pointer membrane only**.
 
 ```text
-RET-core        : existence-level conditions (not described here)
-RET-anchor      : public boundary membrane
-└ envelope      : reference pointer to RET-envelope (external)
+RET-core           : private existence origin
+RET-anchor         : public boundary membrane
+└ outer-contour    : visible distant trace (external canonical target)
 ```
-
-RET-anchor does **not** subsume RET-envelope.  
-RET-envelope does **not** derive authority from RET-anchor.
 
 The relationship is:
 
@@ -36,6 +42,9 @@ The relationship is:
 - non-translational
 - non-commutative
 - citation-only
+- distance-preserving
+
+No inward semantic flow is allowed.
 
 ---
 
@@ -43,19 +52,19 @@ The relationship is:
 
 This directory is:
 
-- a reference surface to an external repository
-- a reminder of structural separation
+- a visible distant trace
+- a pointer membrane to an external canonical contour
 - a guard against duplication
-- a membrane against envelope absorption
-- a citation-safe pointer layer
+- a protection against contour absorption
+- a citation-safe visibility surface
 
-It exists to ensure that
-RET-envelope remains:
+It ensures that the external contour remains:
 
 - singular
 - stable
 - external
 - referentially intact
+- visible without semantic collapse
 
 ---
 
@@ -63,46 +72,50 @@ RET-envelope remains:
 
 This directory is **not**:
 
-- a copy of RET-envelope
-- a summary of its contents
+- a copy of the external contour repository
+- a semantic mirror
+- a summary
 - an explanation layer
 - an implementation guide
-- an extension or fallback definition
-- a semantic mirror
+- a fallback definition
+- an authority bridge
 
-No file here defines envelope conditions.  
-No file here interprets envelope semantics.
+No file here defines contour conditions.
+No file here interprets canonical contour semantics.
 
 ---
 
 ## Reference Principle
 
-RET-envelope must remain:
+The external contour must remain:
 
+- **visible**, not absorbed
 - **referenced**, not embedded
 - **linked**, not mirrored
 - **acknowledged**, not rewritten
-- **cited**, not paraphrased
-- preserved as distance, not semantic continuity
+- preserved as distance, not continuity
 
-Any attempt to restate envelope conditions here
-constitutes duplication
-and breaks referential integrity.
+Any attempt to restate canonical contour semantics here
+breaks referential integrity.
 
 ---
 
-## Authority Boundary
+## Canonical Target Note
 
-RET-anchor holds **no authority** to:
+The current canonical external contour target is:
 
-- redefine RET-envelope
-- extend its scope
-- reinterpret its concepts
-- issue updates on its behalf
-- create derivative envelope semantics
+```text
+RET-envelope
+```
 
-All canonical definitions of RET-envelope
-reside **only** in the envelope repository itself.
+This name is retained only as
+an **external repository identifier**.
+
+It must not govern the vocabulary
+of `outer-contour/` itself.
+
+If the canonical target changes in the future,
+only this note requires revision.
 
 ---
 
@@ -123,7 +136,7 @@ and translation boundaries are governed by:
 ../TRANSLATION.md
 ```
 
-No file in `envelope/`
+No file in `outer-contour/`
 may introduce semantic restatement,
 usage pathways,
 or authority inheritance.
@@ -134,7 +147,7 @@ or authority inheritance.
 
 This directory changes **only if**:
 
-- the external reference location changes
+- the canonical external target changes
 - citation metadata requires correction
 - repository naming changes
 
@@ -147,10 +160,10 @@ the update is invalid.
 
 ## Closing Note
 
-RET-envelope is not brought inside.
+The contour is not brought inside.
 
-It is kept **visible at a distance**.
+Only its **distant trace remains visible**.
 
 This directory exists
-to ensure that distance
-never collapses into duplication.
+so that distance never collapses
+into duplication.
