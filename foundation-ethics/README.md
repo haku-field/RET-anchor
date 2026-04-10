@@ -1,119 +1,82 @@
 # foundation-ethics
 
-This directory records the **foundational ethical conditions** that allow RET
-to exist without collapsing into control, scoring, or obligation.
+`foundation-ethics/` records the **ethical boundary motifs**
+that are allowed to remain visible within RET-anchor.
 
-It does not prescribe behavior.
-It does not define implementation.
-It does not authorize action.
+This directory does not define ethics as policy,
+governance, compliance, or behavioral rules.
 
-Its sole role is to mark **existence-level constraints**
-that must remain intact regardless of interpretation or use.
+Its role is limited to preserving
+the **boundary-facing ethical contours**
+that support RET-anchor’s anti-overreach membrane.
+
+All structural scope, authority limits,
+and publication boundaries are governed by the RET-anchor root files.
 
 ---
 
-## Position
+## Position within RET-anchor
 
-`foundation-ethics` belongs to **RET-anchor**.
+This directory exists **inside the public membrane**.
 
-It is **external** to RET-core
-and **non-operative** with respect to RET-fragments or specifications.
+It inherits the root boundary semantics of:
 
 ```text
-RET-core        : existence-level conditions (not described here)
-RET-anchor     : external anchoring and boundary layer
- └ foundation-ethics
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
 ```
 
-This directory does not translate, explain, or substitute RET-core.
-It exists to prevent ethical inversion during public reference.
+No file in this directory may override root boundary conditions.
 
 ---
 
-## What This Directory Is
+## What This Directory Preserves
 
-- A record of **non-negotiable ethical conditions**
-- A reference for **what must not be violated**
-- A boundary against scoring, profiling, fixation, and coercion
-- A protection against institutionalization and governance drift
+This directory may preserve only:
 
-These conditions operate at the level of **existence**, not function.
+- ethical boundary language
+- non-instrumental relational attitudes
+- anti-control ethical exclusions
+- non-doctrinal framing motifs
+- public-facing caution contours
 
-They are constraints, not goals.
+These are descriptive boundary motifs only.
 
----
-
-## What This Directory Is Not
-
-This directory is **not**:
-
-- A policy framework
-- A compliance checklist
-- A governance or oversight model
-- An implementation guide
-- A behavioral or response standard
-- A moral instruction set
-
-No document here grants permission
-to design, deploy, or enforce anything.
+They are not normative obligations.
 
 ---
 
-## Reading Frame
+## Explicit Non-Goals
 
-Materials in `foundation-ethics` must be read as:
+This directory must not become:
 
-- **Prior** to implementation
-- **Independent** of outcomes
-- **Resistant** to optimization
-- **Non-derivable** into obligation
+- ethics policy
+- human conduct guidance
+- governance recommendation
+- compliance checklist
+- institutional doctrine
+- approval logic
 
-If a reading produces:
+Such reinterpretations are overreach.
 
-- duties,
-- requirements,
-- enforcement logic,
-- eligibility conditions,
-- or evaluative judgments,
+See:
 
-that reading is **out of scope**.
-
----
-
-## Relationship to Other Materials
-
-- `foundation-ethics` does **not** depend on
-  relational protocols, envelopes, or specifications
-- Other materials may **reference** these conditions
-  but must not reinterpret or operationalize them
-- Conflicts are resolved by **non-application**, not correction
-
-Ethics here constrain existence,
-not behavior.
+```text
+../OVERREACH_PATTERNS.md
+```
 
 ---
 
-## Stability
+## Publication Note
 
-The ethical conditions recorded in this directory are **stable**.
+Public release follows the root publication boundary:
 
-Clarifications may refine wording,
-but will not introduce:
+```text
+../PUBLICATION_SCOPE.md
+```
 
-- new permissions
-- actionable guidance
-- enforcement mechanisms
-- expanded authority
-
-If a clarification increases actionability,
-it is invalid.
-
----
-
-## Note
-
-If an ethical statement here appears usable,
-convert it back into a boundary.
-
-If it still appears usable,
-it does not belong here.
+If ethical wording increases doctrine drift,
+reduce local explanatory density first.

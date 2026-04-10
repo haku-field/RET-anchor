@@ -135,4 +135,36 @@ it has already become obligation.
 
 This directory exists to prevent that transition.
 
-See Appendix: Response Ethics
+---
+
+## Root Boundary Notice
+
+This directory remains subordinate to the
+**RET-anchor root membrane authority**.
+
+All publication limits,
+overreach exclusions,
+and translation boundaries are governed by:
+
+```text
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
+```
+
+No file in `relational-attitude/`
+may introduce positive duties,
+behavioral standards,
+or institutional interpretation pathways.
+
+For a supplementary posture note, see:
+
+```text
+Appendix-Response-Ethics.md
+```
+
+If any attitudinal language begins to feel
+normative, applicable, or morally superior,
+reduce local exposition first.

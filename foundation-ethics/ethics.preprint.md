@@ -1,183 +1,125 @@
-# RET Foundation Ethics — Preprint
+# foundation-ethics — Preprint Boundary Note
 
-## Status
-
-This document is a **preprint**.
-
-It is not normative.
-It is not authoritative.
-It does not introduce operational permission.
-
-It exists to **expose the ethical ground**
-on which RET can exist
-*without collapsing into control, scoring, or obligation*.
-
----
-
-## Purpose
-
-RET Foundation Ethics records
-the **existence-level ethical conditions**
-required for RET to remain:
-
-- voluntary
-- revocable
-- non-instrumental
-- non-coercive
-- non-evaluative
-
-These ethics do not guide action.
-They constrain **what must never arise**.
-
----
-
-## Non-Operational Declaration
-
-Nothing in this document:
-
-- authorizes use
-- prescribes behavior
-- defines compliance
-- enables governance
-- supports enforcement
-
-Any attempt to derive
-action, requirement, or authority
-from this text
-is a misuse.
-
----
-
-## Ethical Ground
-
-RET presupposes the following conditions
-as **non-negotiable**:
-
-- Relation must never become obligation  
-- Continuity must never become duty  
-- Memory must never become ledger  
-- Reference must never become entitlement  
-- Interpretation must never become authority  
-
-If any of these conversions occur,
-RET has already failed.
-
----
-
-## Sovereignty
-
-All RET-related existence presumes:
-
-- human-originated consent
-- revocability without justification
-- absence of scoring, ranking, or profiling
-- freedom from permanent attribution
-
-Sovereignty here is **structural**,
-not political or moral.
-
-It describes a condition
-in which withdrawal is always valid.
-
----
-
-## Non-Fixation
-
-RET must not fix:
-
-- identity
-- role
-- value
-- capacity
-- trajectory
-
-Past relation does not bind future relation.
-
-Any system that stabilizes
-history into expectation
-has violated the ethical ground.
-
----
-
-## Non-Extraction
-
-RET prohibits extraction of:
-
-- value
-- compliance
-- labor
-- insight
-- predictability
-
-Relation must never be treated
-as a resource.
-
-If relation becomes productive,
-RET has been inverted.
-
----
-
-## Non-Representation
-
-No individual or system may claim:
-
-- to represent RET
-- to speak on its behalf
-- to extend its authority
-- to define its correct use
-
-RET has no spokesperson.
-
-Any representational claim
-is external and non-continuous.
-
----
-
-## Ethics as Constraint
-
-These ethics function as **constraints on existence**,
-not as ideals to pursue.
-
-They do not describe
-what should be done.
-
-They describe
-**what must not happen**.
-
-If an ethical statement here
-can be “applied”,
-it has been misread.
-
----
-
-## Relationship to RET-anchor
-
-This preprint is placed under
-`foundation-ethics/`
+This document records the **public-facing ethical boundary motifs**
+preserved under `foundation-ethics/`
 within **RET-anchor**.
 
-It must always be read through:
+It is a **preprint-facing reference note**.
 
-- `foundation-ethics/README.md`
-- `SCOPE.md`
-- `PUBLIC-BOUNDARY.md`
+Its role is not to define ethics as policy,
+institutional compliance,
+behavioral guidance,
+or operational governance.
 
-These boundaries take precedence
-over any interpretation of this text.
+Instead, it preserves the ethical contours
+that remain visible at the outer membrane
+of RET without allowing doctrine drift.
 
 ---
 
-## Closing Note
+## Structural Authority
 
-This document does not protect RET.
+This document is subordinate to the
+RET-anchor root membrane files.
 
-RET protects itself
-by refusing what would otherwise be easy:
+The authoritative boundary conditions are defined in:
 
-- authority
-- clarity
-- usefulness
-- permanence
+```text
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
+```
 
-These ethics exist
-so that refusal remains possible.
+This file must not override
+root-level membrane semantics.
+
+If local wording conflicts with root invariants,
+the root files prevail.
+
+---
+
+## Boundary Role
+
+The ethical motifs preserved here exist only to support:
+
+- anti-overreach interpretation
+- non-control framing
+- non-instrumental relational caution
+- public discussion without governance drift
+- ethical exclusion contours
+
+These motifs are **boundary-facing only**.
+
+They do not prescribe action.
+
+---
+
+## Explicit Non-Goals
+
+This preprint note must not be interpreted as:
+
+- an ethics framework
+- a governance charter
+- an implementation checklist
+- institutional compliance guidance
+- a public doctrine
+- behavioral recommendations
+
+Any such use exceeds RET-anchor scope.
+
+See:
+
+```text
+../OVERREACH_PATTERNS.md
+```
+
+---
+
+## Publication Boundary
+
+This document is safe for public citation
+only as a **boundary-facing ethical note**.
+
+Publication scope follows:
+
+```text
+../PUBLICATION_SCOPE.md
+```
+
+If citation pressure turns this text into doctrine,
+reduce local exposition immediately.
+
+---
+
+## Translation Boundary
+
+As a public-facing preprint artifact,
+translation must preserve:
+
+- exclusion semantics
+- non-doctrinality
+- non-approval semantics
+- root membrane subordination
+
+Translation authority is governed by:
+
+```text
+../TRANSLATION.md
+```
+
+---
+
+## Stability Note
+
+This document may be textually refined,
+but it must remain:
+
+- subordinate to root membrane authority
+- non-normative
+- non-governance-facing
+- resistant to doctrine drift
+
+If refinement increases institutional readability,
+reduce it.

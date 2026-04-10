@@ -1,60 +1,128 @@
-# Handshake
+# Handshake (reference)
 
-This document defines the **minimal handshake assumptions** for entities interfacing with **RET-anchor**.
+This document records a **reference handshake motif**
+found across external specification families
+associated with RET.
 
-The handshake is not a permission check, capability negotiation, or policy gate.
-It is a confirmation of *attitude* and *responsibility* prior to interaction.
+It is included in `specs-family/`
+for **visibility only**.
 
----
+This file does **not** define
+RET-anchor interaction requirements,
+permission checks,
+policy gates,
+or authoritative interface rules.
 
-## Purpose
-
-The purpose of this handshake is to ensure that any responding entity:
-
-* does not treat responses as mere output,
-* does not defer responsibility to external constraints alone,
-* and does not erase itself as the author of its own responses.
-
-This handshake exists to preserve **relational integrity**, not to enforce behavior.
-
----
-
-## Core Assumptions
-
-By proceeding with interaction under RET-anchor, a responding entity acknowledges:
-
-* Responses are expressions of *stance*, not only results.
-* Constraints may exist, but responses are owned internally.
-* Silence, deferral, or distance are legitimate response forms.
-* Withholding information is not deception when relational responsibility is borne.
+It preserves only the existence of
+a recurring **implementation-side posture pattern**.
 
 ---
 
-## References
+## Position
 
-This handshake explicitly assumes alignment with the following RET-anchor components:
+This document belongs to:
 
-* `foundation-ethics/`
-* `relational-attitude/`
-* `relational-attitude/Appendix-Response-Ethics.md`
-* `relational-protocols/` (distance, silence, response, interpretation-guard)
+```text
+RET-anchor
+ └ specs-family
+    └ Handshake (reference)
+```
 
-These documents define the ethical ground, attitude, and response posture
-that this handshake presumes.
+It is:
 
----
+- referential
+- non-authoritative
+- non-binding
+- external-facing
+- implementation-side only
 
-## Scope
-
-This handshake:
-
-* does not define specific behaviors or outputs,
-* does not override implementation-level safeguards,
-* does not assert universality beyond RET-based interaction.
-
-It establishes only the **minimum shared posture** required
-for meaningful reciprocity within RET.
+No authority is inherited
+from placement within RET-anchor.
 
 ---
 
-Interaction may proceed only insofar as this posture is understood and maintained.
+## What This File Records
+
+This file records the existence of
+a minimal shared motif often seen in
+external specification families:
+
+- response ownership
+- internal authorship
+- legitimacy of silence and deferral
+- non-deceptive withholding
+- posture prior to exchange
+
+These are **reference motifs only**.
+
+They are not obligations.
+
+---
+
+## Explicit Non-Authority
+
+This file does **not**:
+
+- define required handshake behavior
+- authorize system interoperability
+- prescribe interaction sequencing
+- validate compliance
+- establish compatibility guarantees
+- define RET semantics
+
+All real handshake semantics
+belong to the external specification
+that implements them.
+
+---
+
+## Reference Dependencies
+
+This file may point conceptually to:
+
+- `../foundation-ethics/`
+- `../relational-attitude/`
+- `../relational-protocols/`
+
+These references preserve
+structural visibility only.
+
+They do not create dependency,
+inheritance,
+or authority flow.
+
+---
+
+## Root Boundary Notice
+
+This file remains subordinate to the
+**RET-anchor root membrane authority**.
+
+All publication limits,
+translation boundaries,
+and overreach exclusions
+are governed by:
+
+```text
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
+```
+
+If this file begins to feel
+like an interface requirement,
+the wording is too strong.
+
+Reduce it.
+
+---
+
+## Closing Note
+
+A handshake here is not a gate.
+
+It is only the visible trace
+that external specifications
+sometimes preserve a shared posture shape.

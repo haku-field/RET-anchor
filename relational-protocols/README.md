@@ -157,8 +157,38 @@ If these protocols begin to act together, they have ceased to remain protocols.
 
 ---
 
-## Closing Note
+## Root Boundary Notice
 
-These protocols do not tell anyone what to do.
+This directory remains subordinate to the
+**RET-anchor root membrane authority**.
 
-They exist so that **nothing relational is converted into demand, and nothing plural is collapsed into a system**.
+All publication limits,
+overreach exclusions,
+translation boundaries,
+and non-authority inheritance rules
+are governed by:
+
+```text
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
+```
+
+No file in `relational-protocols/`
+may be converted into:
+
+- actionable workflow
+- staged relational method
+- therapeutic sequence
+- coaching technique
+- conflict model
+- institutional communication pattern
+
+These files preserve only
+**interpretive refusal boundaries**.
+
+If multiple protocols begin to feel
+composable into a method,
+reduce local wording immediately.

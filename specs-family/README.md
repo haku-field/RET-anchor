@@ -119,3 +119,30 @@ Specifications describe **how something could be built**.
 RET-anchor exists to ensure
 they are never mistaken
 for **what must be done**.
+
+---
+
+## Root Boundary Notice
+
+This directory remains subordinate to the
+**RET-anchor root membrane authority**.
+
+All publication limits,
+overreach exclusions,
+translation boundaries,
+and non-authority inheritance rules
+are governed by:
+
+```text
+../README.md
+../INVARIANTS.md
+../OVERREACH_PATTERNS.md
+../PUBLICATION_SCOPE.md
+../TRANSLATION.md
+```
+
+No file in `specs-family/`
+may derive legitimacy,
+recommended adoption,
+or institutional authority
+from placement inside RET-anchor.
