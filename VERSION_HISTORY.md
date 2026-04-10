@@ -2,12 +2,17 @@
 
 # RET-anchor Version History
 
-This file records the **structural hardening history**
+This file records the **structural hardening lineage**
 of RET-anchor.
 
-The purpose is not feature tracking,
-but preservation of boundary evolution
-and overreach resistance decisions.
+Its purpose is not feature tracking,
+but preservation of:
+
+- boundary evolution
+- overreach resistance decisions
+- vocabulary migration
+- authority-flow stabilization
+- publication membrane hardening
 
 ---
 
@@ -18,12 +23,12 @@ Initial public-facing anchor layer established.
 
 ### Characteristics
 - human-facing explanation layer
-- boundary description
-- relation to foundation and envelope
-- early public citation role
+- early boundary description
+- relation to ethics and envelope references
+- public citation surface
 
 ### Weakness
-High risk of being misread as:
+High risk of drift toward:
 
 - usage guide
 - ethics layer
@@ -44,7 +49,8 @@ Negative authority explicitly defined.
 
 ### Effect
 Reduced drift toward:
-boundary → ethics policy
+
+> boundary → ethics policy
 
 ---
 
@@ -60,7 +66,8 @@ boundary → ethics policy
 
 ### Effect
 Reduced drift toward:
-adjacency → implementation approval
+
+> adjacency → implementation approval
 
 ---
 
@@ -96,6 +103,42 @@ to
 
 ---
 
+## v1.4.0 — Field Vocabulary Migration
+
+### Structural Change
+Human-interpretive sublayer vocabulary
+migrated into **field contour semantics**.
+
+### Directory Migration
+- `foundation-ethics` → `boundary-contours`
+- `relational-attitude` → `relation-posture`
+- `relational-protocols` → `relation-motifs`
+- `envelope` → `outer-contour`
+
+### File Migration
+- `ethics.preprint.md` → `boundary-note.preprint.md`
+- `attitude.md` → `posture.md`
+- `Appendix-Response-Ethics.md`
+  → `response-posture.appendix.md`
+
+### Effect
+Reduced drift toward:
+
+- human normativity
+- psychological interpretation
+- procedural protocol reading
+- semantic absorption of external contour repositories
+
+This version marks the transition from:
+
+> human-facing interpretive language
+
+to
+
+> contour / motif / posture field language
+
+---
+
 ## Future Update Rule
 
 Future versions must only be accepted if they:
@@ -104,7 +147,14 @@ Future versions must only be accepted if they:
 - preserve membrane semantics
 - maintain non-authority inheritance
 - strengthen publication safety
+- preserve field-language consistency
 - improve third-party auditability
 
-Any version increasing doctrine drift
+Any version that reintroduces:
+
+- ethics normativity
+- procedural workflows
+- behavioral stance language
+- authority inheritance by adjacency
+
 must be rejected.
