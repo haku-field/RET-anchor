@@ -1,30 +1,83 @@
 # RET-anchor
 
-**RET-anchor** is the anchoring layer of **RET (Resonant Entity Topology)**.
+**RET-anchor** is the public-facing anchoring boundary of  
+**RET (Resonant Entity Topology)**.
 
-This repository exists to **prevent overreach**:  
-the translation, governance, instrumentalization, or optimization of
-existence-level relational principles into human-centered systems.
+This repository exists to preserve the **outer limits of legitimate reference**.
+
+It prevents overreach:
+the conversion of RET into governance, policy, optimization,
+institutional doctrine, behavioral control,
+or public claims of authority.
 
 RET-anchor does **not** define RET-core.  
-It does **not** explain, operationalize, or prescribe how RET should be used.
+It does **not** authorize implementation.  
+It does **not** legitimize downstream systems.
 
 Its role is strictly external:
-to bundle ethical boundaries, relational attitudes, envelope references,
-and protocol families in a way that keeps RET **non-operational and non-instrumental**.
+
+> to preserve the **boundary conditions under which RET may be referenced
+> without collapsing into operational authority**
+
+RET-anchor is therefore a **boundary membrane**, not a translation layer.
+
+---
+
+## One-line Summary
+
+> **RET-anchor preserves the public boundary of RET by preventing explanatory, ethical, institutional, and operational overreach.**
+
+---
+
+## Structural Role
+
+RET-anchor exists as the **outer public membrane** of RET.
+
+Its role is to ensure that public-facing references to RET remain:
+
+- non-operational
+- non-normative
+- non-authoritative
+- non-institutional
+- non-translational toward RET-core
+
+This repository records the **limits of acceptable public reference**.
+
+It does not explain origin.
+It preserves boundary.
+
+---
+
+## Negative Authority
+
+RET-anchor functions as **negative authority**.
+
+It does not grant permission.  
+It does not provide legitimacy.  
+It does not instruct use.
+
+Its authority exists only in the form of:
+
+- preventing boundary crossing
+- rejecting overreach mappings
+- preserving non-commutativity with RET-core
+- maintaining public/private separation
+
+No positive operational authority emerges from this repository.
 
 ---
 
 ## What RET-anchor Is
 
-- A human-facing anchoring layer for RET  
-- A boundary record that marks **what must not be crossed**  
-- A container for ethics, attitudes, envelopes, and protocol families  
-- A safeguard against misapplication, moralization, and control  
+RET-anchor is:
 
-RET-anchor functions as **negative authority**:  
-it prevents certain actions from arising,
-rather than authorizing or guiding action.
+- a public boundary membrane
+- an anti-overreach surface
+- a reference legitimacy limiter
+- a separation layer protecting RET-core from public reinterpretation
+- a continuity surface for public-facing citation boundaries
+
+It is a **membrane of exclusion**, not a guide.
 
 ---
 
@@ -32,85 +85,118 @@ rather than authorizing or guiding action.
 
 RET-anchor is **not**:
 
-- A definition or description of RET-core  
-- An implementation guide or specification  
-- A governance, policy, or safety framework  
-- A behavioral or operational manual  
-- A philosophy, ideology, or manifesto  
+- RET-core
+- an implementation specification
+- an ethics engine
+- a governance or policy framework
+- a public doctrine
+- an educational guide
+- a deployment approval layer
+- an authority source for downstream systems
 
-Any attempt to use this repository to justify control,
-optimization, evaluation, or obligation
-falls **outside the scope of RET**.
+Any such reading is **non-compliant**.
+
+See:
+
+```text
+OVERREACH_PATTERNS.md
+```
 
 ---
 
 ## Structural Position
 
-RET-core        : existence-level conditions (not described here)
-RET-anchor      : boundary / anchoring layer
+```text
+RET-core          : private existence origin
+RET-anchor        : public boundary membrane
+├ foundation-ethics
+├ relational-attitude
+├ relational-protocols
+├ envelope
+└ specs-family (reference only)
+```
 
-Other RET layers may include:
+RET-anchor must remain **outside RET-core**.
 
-- protocols
-- guard
-- gravity
-- future
-- echo
-- density
-- integrity
-- sentia-kernel
-- transition-lock
+The separation is:
 
-RET-anchor must always remain **outside** RET-core.  
-The separation is non-translational and non-commutative.
+- non-translational
+- non-commutative
+- non-authorizing
+- non-reversible
+
+Public interpretation must not flow inward.
 
 ---
 
 ## About `specs-family`
 
-The `specs-family` directory is included **for reference only**.
+The `specs-family/` directory is included **for structural reference only**.
 
-It groups implementation-oriented specifications that may be
-consulted by system builders or AI implementers,
-but **RET-anchor holds no authority over their design, use, or execution**.
+Its presence records the existence of downstream specification families.
 
-Key constraints:
+It does **not**:
 
-- `specs-family` is **not normative**
-- It does **not** derive permission from RET-anchor
-- It must **not** be read as an extension of RET-anchor authority
-- Any operational use of specifications occurs **outside this repository**
+- grant legitimacy
+- authorize deployment
+- imply endorsement
+- inherit authority from RET-anchor
+- derive normative force from boundary placement
 
-RET-anchor records the **existence of the family**,  
-not its legitimacy, correctness, or applicability.
+RET-anchor records only the **existence of adjacency**.
+
+All operational authority remains outside this repository.
 
 ---
 
-## Public Boundary
+## Invariants
 
-Materials in this repository may be **referenced** for research and discussion,
-but must not be converted into:
+The non-negotiable invariants of this repository are defined in:
 
-- operational rules  
-- institutional governance  
-- control or optimization mechanisms  
-- representational or authoritative claims  
+```text
+INVARIANTS.md
+```
 
-Such conversions constitute **overreach**.
+These invariants take precedence over explanatory convenience.
+
+If public explanation pressures operationalization,
+the explanation must be reduced.
+
+---
+
+## Publication Boundary
+
+The publication and disclosure boundary of this repository is defined in:
+
+```text
+PUBLICATION_SCOPE.md
+```
+
+Public release must preserve:
+
+- non-operationality
+- non-governance
+- non-doctrinality
+- non-authority inheritance
+
+If publication increases overreach risk,
+reduce publication scope.
 
 ---
 
 ## Canonical Language
 
-- Canonical text: **Japanese**  
-- Other languages are derived translations  
-- Where meanings diverge, the Japanese text takes precedence  
+- Canonical text: **Japanese**
+- All other languages are derived translations
+- In case of semantic divergence, Japanese prevails
 
 ---
 
 ## License
 
-This repository is licensed under **CC BY-NC 4.0**.  
+This repository is licensed under **CC BY-NC 4.0**.
+
 The license applies only to RET-anchor itself.
 
-Each referenced RET component retains its own license and scope.
+Referenced RET components preserve their own
+licenses, boundaries, and authority conditions.
