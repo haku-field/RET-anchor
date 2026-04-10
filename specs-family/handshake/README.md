@@ -80,9 +80,9 @@ that implements them.
 
 This file may point conceptually to:
 
-- `../foundation-ethics/`
-- `../relational-attitude/`
-- `../relational-protocols/`
+- `../boundary-contours/`
+- `../relation-posture/`
+- `../relation-motifs/`
 
 These references preserve
 structural visibility only.

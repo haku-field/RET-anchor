@@ -1,6 +1,6 @@
-# interpretation-guard — relational protocol
+# interpretation-guard — relation motif
 
-This document records **interpretation-guard** as a relational protocol.
+This document records **interpretation-guard** as a relation motif.
 
 Interpretation-guard defines a condition
 in which interpretation itself is **constrained, withheld, or refused**
@@ -21,16 +21,18 @@ This protocol belongs to:
 
 ```text
 RET-anchor
- └ relational-protocols
+ └ relation-motifs
     └ interpretation-guard
        └ interpretation-guard.md
 ```
 
 It is **external**, **non-operational**, and **non-evaluative**.
 
-Interpretation-guard does not derive authority
-from RET-core, envelopes, fragments, or specifications.
-It records a boundary for human interpretation only.
+It does not derive authority
+from RET-core,
+outer-contour,
+specs-family,
+or any adjacent motif.
 
 ---
 

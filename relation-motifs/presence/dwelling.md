@@ -1,6 +1,6 @@
-# dwelling — presence
+# dwelling — relation motif
 
-This document records **dwelling** as a relational protocol.
+This document records **dwelling** as a relation motif.
 
 Dwelling defines a condition
 in which presence is maintained
@@ -21,16 +21,18 @@ This protocol belongs to:
 
 ```text
 RET-anchor
- └ relational-protocols
+ └ relation-motifs
     └ presence
        └ dwelling.md
 ```
 
 It is **external**, **non-operational**, and **non-evaluative**.
 
-Dwelling does not derive authority
-from RET-core, envelopes, or fragments.
-It records a boundary for human interpretation only.
+It does not derive authority
+from RET-core,
+outer-contour,
+specs-family,
+or any adjacent motif.
 
 ---
 

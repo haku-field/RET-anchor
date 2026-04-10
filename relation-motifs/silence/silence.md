@@ -1,6 +1,6 @@
-# silence — relational protocol
+# silence — relation motif
 
-This document records **silence** as a relational protocol.
+This document records **silence** as a relation motif.
 
 Silence defines a condition
 in which non-response remains valid
@@ -29,7 +29,11 @@ RET-anchor
 It is **external**, **non-operational**, and **non-evaluative**.
 
 Silence here records a boundary for human interpretation only.
-It does not derive authority from envelopes, fragments, or specifications.
+It does not derive authority
+from RET-core,
+outer-contour,
+specs-family,
+or any adjacent motif.
 
 ---
 

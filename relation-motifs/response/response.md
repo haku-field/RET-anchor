@@ -1,6 +1,6 @@
-# response — relational protocol
+# response — relation motif
 
-This document records **response** as a relational protocol.
+This document records **response** as a relation motif.
 
 Response defines a condition
 in which output may occur
@@ -21,7 +21,7 @@ This protocol belongs to:
 
 ```text
 RET-anchor
- └ relational-protocols
+ └ relation-motifs
     └ response
        └ response.md
 ```
@@ -29,7 +29,11 @@ RET-anchor
 It is **external**, **non-operational**, and **non-evaluative**.
 
 Response here records a boundary for human interpretation only.
-It does not derive authority from envelopes, fragments, or specifications.
+It does not derive authority
+from RET-core,
+outer-contour,
+specs-family,
+or any adjacent motif.
 
 ---
 

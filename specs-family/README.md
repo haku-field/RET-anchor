@@ -83,7 +83,7 @@ occurs **entirely outside** RET-anchor.
 Specifications may conceptually depend on:
 
 - RET-core
-- foundation-ethics
+- boundary-contours
 
 However:
 
