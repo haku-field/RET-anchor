@@ -107,12 +107,12 @@ OVERREACH_PATTERNS.md
 ## Structural Position
 
 ```text
-RET-core          : private existence origin
-RET-anchor        : public boundary membrane
-├ foundation-ethics
-├ relational-attitude
-├ relational-protocols
-├ envelope
+RET-core            : private existence origin
+RET-anchor          : public boundary membrane
+├ boundary-contours
+├ relation-posture
+├ relation-motifs
+├ outer-contour
 └ specs-family (reference only)
 ```
 
