@@ -21,7 +21,7 @@ This protocol belongs to:
 
 ```text
 RET-anchor
- └ relational-protocols
+ └ relation-motifs
     └ silence
        └ silence.md
 ```
