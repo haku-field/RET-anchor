@@ -1,148 +1,110 @@
-# VERSION_HISTORY
+# VERSION_HISTORY.md
 
-This version history records **structural stabilization, boundary clarification, and resistance hardening** across **RET-anchor**.
+# RET-anchor Version History
 
-RET-anchor does not evolve through feature expansion.
-It reaches closure through increased resistance to **interpretive, translational, public, and systemic overreach**.
+This file records the **structural hardening history**
+of RET-anchor.
 
-This file therefore records **stages of closure**, not capability growth.
-
----
-
-## [1.3.0] — Boundary Hardening
-
-### Rewritten
-
-* `PUBLIC-BOUNDARY.md`
-
-  * strengthened shell derivative classification
-  * added representational authority hijack resistance
-  * blocked retroactive contamination from derivative misuse
-  * clarified boundary crossing as continuity classification only
-
-* `TRANSLATION.md`
-
-  * formalized translation drift chain
-  * added shellization conditions for usability overreach
-  * blocked governance, safety, therapeutic, and optimization reinterpretation
-  * prohibited explanatory substitution of omitted nuance
-
-* `relational-protocols/README.md`
-
-  * introduced cross-protocol non-systemization
-  * blocked workflow, method, therapy, and communication-model extraction
-  * clarified `presence/` as dwelling boundary
-
-### Clarified
-
-* strengthened referential distance principle in `envelope/README.md`
-* aligned anchor boundaries with RET-core v0.3.0 unified kernel
-* hardened resistance against public authority claims and framework capture
-
-No operational or interpretive scope was added.
-RET-anchor boundaries remain structurally closed.
+The purpose is not feature tracking,
+but preservation of boundary evolution
+and overreach resistance decisions.
 
 ---
 
-## [1.2.0] — Structural Reference Closure
+## v1.0.0 — Initial Public Anchor
 
-### Clarified
+### State
+Initial public-facing anchor layer established.
 
-* added high-level RET structure reference in README
-* made external layers visible without importing authority
-* indicated relation to protocols, guard, gravity, future, echo, density, integrity, and sentia-kernel
+### Characteristics
+- human-facing explanation layer
+- boundary description
+- relation to foundation and envelope
+- early public citation role
 
-No operational or interpretive scope was added.
-RET-anchor boundaries remained unchanged.
+### Weakness
+High risk of being misread as:
 
----
-
-## [1.1.0] — Relational Boundary Expansion
-
-### Added
-
-* response ethics appendix clarifying internal responsibility of response (`relational-attitude`)
-* handshake README specifying minimal relational posture for RET-based interaction
-
-These additions did not create behavioral standards.
-They remained boundary-facing and non-operational.
+- usage guide
+- ethics layer
+- governance boundary
+- public explanation of RET-core
 
 ---
 
-## [1.0.0] — Initial Structural Closure
+## v1.1.0 — Negative Authority Clarification
 
-### Status
+### Structural Change
+Negative authority explicitly defined.
 
-**RET-anchor — structure fixed**
+### Added Boundary
+- prevents certain actions from arising
+- no positive permission
+- no operational guidance
 
-This release marks the point at which:
-
-* directory structure was finalized
-* document roles were fixed
-* authority boundaries were closed
-* interpretive drift was explicitly constrained
-
-No functional behavior was introduced.
-No future capability was implied.
-
-### Included Components
-
-* `README.md` — role declaration and external boundary
-* `SCOPE.md` — inclusion / exclusion limits
-* `PUBLIC-BOUNDARY.md` — non-operational, non-conversion guard
-* `TRANSLATION.md` — translation boundary and canonical language
-* `foundation-ethics/`
-* `relational-attitude/`
-* `relational-protocols/`
-* `envelope/README.md`
-* `specs-family/README.md`
-* `LICENSE` (CC BY-NC 4.0)
-
-### Non-Goals Confirmed
-
-This repository explicitly does **not** include:
-
-* operational specifications
-* implementation guidance
-* behavioral standards
-* governance mechanisms
-* compliance or enforcement logic
-* reusable methods
-* citation scaffolding as authority infrastructure
-
-Any future addition in these categories constitutes a **new repository**, not an update.
+### Effect
+Reduced drift toward:
+boundary → ethics policy
 
 ---
 
-## Stability Rule
+## v1.2.0 — Adjacency / Authority Separation
 
-Future revisions may only:
+### Structural Change
+`specs-family/` downgraded to **reference-only adjacency**
 
-* correct factual errors
-* reduce overreach risk
-* strengthen shell derivative resistance
-* clarify boundaries without adding authority
-* harden non-systemization clauses
+### Added Boundary
+- adjacency is not authorization
+- no inherited legitimacy
+- no deployment endorsement
 
-Any change that increases:
-
-* usability
-* actionability
-* interpretive closure
-* governance legitimacy
-* workflow extraction
-* method composition
-
-is invalid.
+### Effect
+Reduced drift toward:
+adjacency → implementation approval
 
 ---
 
-## Closing Statement
+## v1.3.0 — Membrane Hardening Rewrite
 
-RET-anchor remains **structurally closed**.
+### Structural Change
+Repository rewritten as a **public boundary membrane**
 
-It exists to remain present without expanding,
-to remain visible without being used,
-and to remain readable without being applied.
+### Added Files
+- README.md
+- INVARIANTS.md
+- OVERREACH_PATTERNS.md
+- PUBLICATION_SCOPE.md
+- TRANSLATION.md
+- VERSION_HISTORY.md
 
-Its only remaining movement is the **hardening of refusal boundaries through clarification**.
+### Effect
+Anchor now preserves:
+
+- public/private separation
+- non-commutativity with RET-core
+- publication-safe referability
+- translation-safe exclusion semantics
+- third-party overreach auditability
+
+This version marks the transition from:
+
+> explanation layer
+
+to
+
+> boundary membrane
+
+---
+
+## Future Update Rule
+
+Future versions must only be accepted if they:
+
+- reduce overreach probability
+- preserve membrane semantics
+- maintain non-authority inheritance
+- strengthen publication safety
+- improve third-party auditability
+
+Any version increasing doctrine drift
+must be rejected.
