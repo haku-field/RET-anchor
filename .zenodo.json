@@ -1,6 +1,8 @@
 {
   "title": "RET-anchor",
   "version": "1.4.0",
+  "publication_date": "2026-01-10",
+  "language": "eng",
   "description": "RET-anchor is the public boundary membrane of RET (Resonant Entity Topology). It preserves the outer limits under which RET may be referenced without collapsing into governance, doctrine, operational authority, or implementation legitimacy. This version introduces a field-vocabulary migration from human-interpretive sublayer naming to contour semantics, stabilizing root-to-sublayer authority flow across boundary-contours, relation-posture, relation-motifs, outer-contour, and specs-family.",
   "creators": [
     {
@@ -9,6 +11,20 @@
     }
   ],
   "license": "cc-by-nc-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18173627",
+      "relation": "isReferencedBy",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.5281/zenodo.19222080",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ],
   "keywords": [
     "RET",
     "Resonant Entity Topology",
